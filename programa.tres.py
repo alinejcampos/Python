@@ -6,7 +6,7 @@ menu_item = "biryani"
 print("Updated menu item is: " + menu_item)
 biryani_per_person = 1
 biryani_needed = biryani_per_person * guests
-biryani_prepared = 10
+biryani_prepared = 11
 enough_biryani = biryani_prepared == biryani_needed
 guests = 11
 biryani_per_guest = biryani_prepared / guests
